@@ -1,0 +1,2 @@
+- [Link do Medium](https://medium.com/@mateus.d.assis.silva/transfer-learning-com-vgg16-e-resnet50-39e58c3e84c3)
+- Vídeo Loom (_coming soon!_)
