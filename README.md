@@ -7,6 +7,7 @@ Esse repositório apresenta um projeto de _Transfer Learning_ aplicado a um exem
 - **Fetch Data**: Download dos dados a partir de uma base de dados externa;
 - **Preprocessing**: Processamento necessário para garantir que os dados estejam uniformizados;
 - **Segregation**: Separação dos dados nos subconjuntos adequados;
+
 Por fim, a técnica de _Transfer Learning_ é aplicada a duas redes neurais (VGG e Resnet), e cada um desses processos possui um arquivo específico. Cada um desses arquivos demonstra duas maneiras pelas quais _Transfer Learning_ pode ser utilizado.
 
 [Um artigo completo referente a esse projeto está disponível no Medium](https://medium.com/@mateus.d.assis.silva/transfer-learning-com-vgg16-e-resnet50-39e58c3e84c3), além de um vídeo no Loom (_em breve!_).
