@@ -8,6 +8,6 @@ Esse repositório apresenta um projeto de _Transfer Learning_ aplicado a um exem
 - **Preprocessing**: Processamento necessário para garantir que os dados estejam uniformizados;
 - **Segregation**: Separação dos dados nos subconjuntos adequados;
 
-Por fim, a técnica de _Transfer Learning_ é aplicada a duas redes neurais (VGG e Resnet), e cada um desses processos possui um arquivo específico. Cada um desses arquivos demonstra duas maneiras pelas quais _Transfer Learning_ pode ser utilizado.
+Por fim, a técnica de _Transfer Learning_ é aplicada a duas redes neurais (VGG e Resnet), e cada um desses processos possui um arquivo específico. Cada um desses arquivos demonstra duas maneiras pelas quais _Transfer Learning_ pode ser utilizado. Os resultados para cada rede se encontram no WandB: [VGG](https://wandb.ai/gildson/transfer_learning_VGG-16) e [ResNet](https://wandb.ai/gildson/transfer_learning_ResNet50)
 
 [Um artigo completo referente a esse projeto está disponível no Medium](https://medium.com/@mateus.d.assis.silva/transfer-learning-com-vgg16-e-resnet50-39e58c3e84c3), além de um vídeo no Loom (_em breve!_).
